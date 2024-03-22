@@ -1,0 +1,6 @@
+table Touch {
+}
+
+union AnyCondition {
+	Touch
+}
